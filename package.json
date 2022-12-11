@@ -1,0 +1,20 @@
+{
+  "name": "featured-image-toggle",
+  "description": "Featured Image Toggle",
+  "author": "ArrayPress",
+  "license": "GPL-2.0-or-later",
+  "main": "assets/js/index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "pot": "wp i18n make-pot ./ languages/featured-image-toggle.pot --exclude='wp,wp-content,vendor,tests,node_modules,build,assets,src'",
+    "zip": "rm -Rf ../featured-image-toggle.zip && zip -r ../featured-image-toggle.zip build/ languages/ featured-image-toggle.php"
+  },
+  "devDependencies": {
+    "@wordpress/block-editor": "^8.0.13",
+    "@wordpress/components": "^19.2.0",
+    "@wordpress/compose": "^5.0.7",
+    "@wordpress/hooks": "^3.6.0",
+    "@wordpress/i18n": "^4.2.4",
+    "@wordpress/scripts": "^21.0.1"
+  }
+}

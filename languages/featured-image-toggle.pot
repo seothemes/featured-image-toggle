@@ -1,0 +1,35 @@
+# Copyright (C) 2022 ArrayPress
+# This file is distributed under the same license as the Featured Image Toggle plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Featured Image Toggle 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/featured-image-toggle\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-11T12:52:52+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: featured-image-toggle\n"
+
+#. Plugin Name of the plugin
+msgid "Featured Image Toggle"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/featured-image-toggle/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Featured Image Toggle allows users to flag an image(s) as a \"featured\" within the content area that will be accessible using custom PHP functions within your theme."
+msgstr ""
+
+#. Author of the plugin
+msgid "ArrayPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://arraypress.com/ License: GPL-2.0-or-later"
+msgstr ""
